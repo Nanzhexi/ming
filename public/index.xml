@@ -253,6 +253,14 @@
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analysis the Influencing Factors of Urban Traffic Flows by Using New and Emerging Urban Big Data and Deep Learning (2022)</title>
       <link>http://localhost:1313/publication/traffic-flows-deep-learning-isprs-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
