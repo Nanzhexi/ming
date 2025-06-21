@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News &amp; Updates | </title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/post/</link>
+      <atom:link href="http://localhost:1315/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Updates</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>News &amp; Updates</title>
-      <link>http://localhost:1313/post/</link>
+      <link>http://localhost:1315/post/</link>
     </image>
     
     <item>
       <title>New Paper Published: GeoAggregator - An Efficient Transformer Model for Geo-Spatial Tabular Data</title>
-      <link>http://localhost:1313/post/2025-06-new-paper-geoaggregator/</link>
+      <link>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-06-new-paper-geoaggregator/</guid>
+      <guid>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</guid>
       <description>&lt;p&gt;We are excited to announce the publication of our latest research paper titled &lt;strong&gt;&amp;ldquo;GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data&amp;rdquo;&lt;/strong&gt; in a leading journal.&lt;/p&gt;
 &lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
 &lt;p&gt;This work introduces GeoAggregator, a novel transformer-based model specifically designed for processing geo-spatial tabular data. The key innovations include:&lt;/p&gt;
@@ -38,15 +38,15 @@
 &lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
 &lt;p&gt;The paper is now available online and the code will be made available on our GitHub repository soon.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1313/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1315/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Successful Presentation at International GIScience Conference 2025</title>
-      <link>http://localhost:1313/post/2025-06-conference-presentation/</link>
+      <link>http://localhost:1315/post/2025-06-conference-presentation/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-06-conference-presentation/</guid>
+      <guid>http://localhost:1315/post/2025-06-conference-presentation/</guid>
       <description>&lt;p&gt;Dr. Mingshu Wang recently presented our cutting-edge research on &lt;strong&gt;&amp;ldquo;Urban Pattern Language: A Morphological Paradigm for Understanding Multi-scalar Spatial Structure&amp;rdquo;&lt;/strong&gt; at the International GIScience Conference 2025 held in Vienna, Austria.&lt;/p&gt;
 &lt;h2 id=&#34;presentation-highlights&#34;&gt;Presentation Highlights&lt;/h2&gt;
 &lt;p&gt;The presentation covered:&lt;/p&gt;
@@ -75,9 +75,9 @@
     
     <item>
       <title>Major Research Grant Awarded for Urban AI Project</title>
-      <link>http://localhost:1313/post/2025-05-research-grant-awarded/</link>
+      <link>http://localhost:1315/post/2025-05-research-grant-awarded/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-05-research-grant-awarded/</guid>
+      <guid>http://localhost:1315/post/2025-05-research-grant-awarded/</guid>
       <description>&lt;p&gt;We are thrilled to announce that our research group has been awarded a &lt;strong&gt;£500,000 research grant&lt;/strong&gt; from the UK Research and Innovation (UKRI) to support our groundbreaking work on &lt;strong&gt;&amp;ldquo;Explainable AI for Urban Systems: Advancing People-Centric Urban Analytics&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This three-year project will focus on developing explainable artificial intelligence methods for understanding urban systems from a people-centric perspective. The research will address critical challenges in:&lt;/p&gt;
@@ -120,9 +120,9 @@
     
     <item>
       <title>Welcome New PhD Student: Sarah Johnson</title>
-      <link>http://localhost:1313/post/2025-04-new-team-member/</link>
+      <link>http://localhost:1315/post/2025-04-new-team-member/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-04-new-team-member/</guid>
+      <guid>http://localhost:1315/post/2025-04-new-team-member/</guid>
       <description>&lt;p&gt;We are delighted to welcome &lt;strong&gt;Sarah Johnson&lt;/strong&gt; as the newest member of our research team! Sarah has joined us as a PhD student and will be working on exciting research related to urban mobility and transportation analytics.&lt;/p&gt;
 &lt;h2 id=&#34;about-sarah&#34;&gt;About Sarah&lt;/h2&gt;
 &lt;p&gt;Sarah brings a strong background in:&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Funding | </title>
-    <link>http://localhost:1313/tags/funding/</link>
-      <atom:link href="http://localhost:1313/tags/funding/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/funding/</link>
+      <atom:link href="http://localhost:1315/tags/funding/index.xml" rel="self" type="application/rss+xml" />
     <description>Funding</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Funding</title>
-      <link>http://localhost:1313/tags/funding/</link>
+      <link>http://localhost:1315/tags/funding/</link>
     </image>
     
     <item>
       <title>Major Research Grant Awarded for Urban AI Project</title>
-      <link>http://localhost:1313/post/2025-05-research-grant-awarded/</link>
+      <link>http://localhost:1315/post/2025-05-research-grant-awarded/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-05-research-grant-awarded/</guid>
+      <guid>http://localhost:1315/post/2025-05-research-grant-awarded/</guid>
       <description>&lt;p&gt;We are thrilled to announce that our research group has been awarded a &lt;strong&gt;£500,000 research grant&lt;/strong&gt; from the UK Research and Innovation (UKRI) to support our groundbreaking work on &lt;strong&gt;&amp;ldquo;Explainable AI for Urban Systems: Advancing People-Centric Urban Analytics&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
 &lt;p&gt;This three-year project will focus on developing explainable artificial intelligence methods for understanding urban systems from a people-centric perspective. The research will address critical challenges in:&lt;/p&gt;

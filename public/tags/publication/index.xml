@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication | </title>
-    <link>http://localhost:1313/tags/publication/</link>
-      <atom:link href="http://localhost:1313/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/publication/</link>
+      <atom:link href="http://localhost:1315/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Publication</title>
-      <link>http://localhost:1313/tags/publication/</link>
+      <link>http://localhost:1315/tags/publication/</link>
     </image>
     
     <item>
       <title>New Paper Published: GeoAggregator - An Efficient Transformer Model for Geo-Spatial Tabular Data</title>
-      <link>http://localhost:1313/post/2025-06-new-paper-geoaggregator/</link>
+      <link>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-06-new-paper-geoaggregator/</guid>
+      <guid>http://localhost:1315/post/2025-06-new-paper-geoaggregator/</guid>
       <description>&lt;p&gt;We are excited to announce the publication of our latest research paper titled &lt;strong&gt;&amp;ldquo;GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data&amp;rdquo;&lt;/strong&gt; in a leading journal.&lt;/p&gt;
 &lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
 &lt;p&gt;This work introduces GeoAggregator, a novel transformer-based model specifically designed for processing geo-spatial tabular data. The key innovations include:&lt;/p&gt;
@@ -38,7 +38,7 @@
 &lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
 &lt;p&gt;The paper is now available online and the code will be made available on our GitHub repository soon.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1313/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For more details about this research, please refer to the full publication in our &lt;a href=&#34;http://localhost:1315/publication/&#34;&gt;Publications&lt;/a&gt; section.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

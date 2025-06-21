@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentation | </title>
-    <link>http://localhost:1313/tags/presentation/</link>
-      <atom:link href="http://localhost:1313/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1315/tags/presentation/</link>
+      <atom:link href="http://localhost:1315/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_dd48ef272fcd83b6.png</url>
+      <url>http://localhost:1315/media/icon_hu11734318148517933569.png</url>
       <title>Presentation</title>
-      <link>http://localhost:1313/tags/presentation/</link>
+      <link>http://localhost:1315/tags/presentation/</link>
     </image>
     
     <item>
       <title>Successful Presentation at International GIScience Conference 2025</title>
-      <link>http://localhost:1313/post/2025-06-conference-presentation/</link>
+      <link>http://localhost:1315/post/2025-06-conference-presentation/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-06-conference-presentation/</guid>
+      <guid>http://localhost:1315/post/2025-06-conference-presentation/</guid>
       <description>&lt;p&gt;Dr. Mingshu Wang recently presented our cutting-edge research on &lt;strong&gt;&amp;ldquo;Urban Pattern Language: A Morphological Paradigm for Understanding Multi-scalar Spatial Structure&amp;rdquo;&lt;/strong&gt; at the International GIScience Conference 2025 held in Vienna, Austria.&lt;/p&gt;
 &lt;h2 id=&#34;presentation-highlights&#34;&gt;Presentation Highlights&lt;/h2&gt;
 &lt;p&gt;The presentation covered:&lt;/p&gt;
