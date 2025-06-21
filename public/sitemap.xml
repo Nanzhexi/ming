@@ -1433,5 +1433,8 @@
     <loc>http://localhost:1313/tags/land-use-evaluation/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
