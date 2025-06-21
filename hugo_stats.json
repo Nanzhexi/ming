@@ -223,6 +223,13 @@
     "ids": [
       "about-section",
       "date-filter",
+      "map",
+      "map-api-key",
+      "map-dir",
+      "map-lat",
+      "map-lng",
+      "map-provider",
+      "map-zoom",
       "modal",
       "modal-error",
       "navbar-content",

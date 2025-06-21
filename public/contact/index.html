@@ -99,6 +99,8 @@
     
     
     
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
 
     
 
@@ -1229,6 +1231,16 @@ body {
   </ul>
 
   
+  <div class="d-none">
+    <input id="map-provider" value="mapnik">
+    <input id="map-lat" value="55.8721">
+    <input id="map-lng" value="-4.2890">
+    <input id="map-dir" value="School of Geographical &amp; Earth Sciences, Glasgow, Scotland G12 8QQ">
+    <input id="map-zoom" value="15">
+    <input id="map-api-key" value="">
+  </div>
+  <div id="map"></div>
+  
 
 </div>
 
@@ -1482,6 +1494,8 @@ Visitor parking is available on campus. Please check the University of Glasgow w
 
 
 
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
 
 
 
@@ -1534,6 +1548,7 @@ Visitor parking is available on campus. Please check the University of Glasgow w
 
 
 
+  <script src="/js/wowchemy-map.js" type="module"></script>
 
 
 
