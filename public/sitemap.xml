@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/geospatial/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-06-new-paper-geoaggregator/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/publication/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/transformer/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/conference/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/giscience/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/presentation/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-06-conference-presentation/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/urban-informatics/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/funding/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/grant/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-05-research-grant-awarded/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/research/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/urban-ai/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/phd-student/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/team/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/welcome/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-04-new-team-member/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,10 +98,6 @@
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +107,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/spatial-analysis/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -279,10 +355,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/geographic-information-science/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/giscience/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1432,9 +1504,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/land-use-evaluation/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
